@@ -1,0 +1,32 @@
+Inspritation: I decided to make this game because I was bored and I wanted to make a simple game with python. This took me around 5 hours to make all the modes (currently as of 25/5/25).
+I wanted to create this page so you can get a game that you may want without having to code it all. Different game modes for reflex tests. This basically just test your reflex
+and see if you can react well or not. If you lose? Don't worry, it's just a game after all. It does not define you.
+
+EASY MODE:
+The easiest of out them all, the blocks move really slow and normal at the end. If you are unable to beat this,
+you may have reflex issues because it is not difficult. You also only get one life due to it being too easy.
+Blocks only spawn on the north, nowhere else. This is the initial mode I created.
+
+MEDIUM MODE:
+Built simple, it is a bit more harder than easy, but managable. It requires normal reflex to beat.
+You only get one life though... It only spawns on the north
+
+MULTI SPAWN MODE:
+Multiple sides can spawn blocks, but slower than easy mode. Dodging is a bit difficult, but it is possible.
+It will spawn on east, west and north. South is excluded so it may fix double blocks stacked issues.
+
+HARD MODE:
+Extremely difficult, only spawns on the north but everything goes VERY fast. If you beat this, you have excellent reflexes.
+It spawns very fast where you just have to always be at the correct spot and not get hit by the block. You have less than half a second to react.
+You only get one life for this, which makes this very difficult.
+
+INSANE MODE:
+
+Single Life Mode: Impossible as the blocks are very fast and reacting without getting hit is impossible (unless if you are superhuman).
+
+5 Lives Mode: Very difficult, as parts spawn very quickly (as usual). I was able to get a minimum of 63 seconds left. If you beat this, then let me know! It would be
+great to show your reflex skills. It would require a lot of skill because the objects are going to be extremely fast, so beating it is a good thing to show off.
+
+5 Lives Mode + Green Block 20 Lives: Extremely faster than all the 2 other styles of insane mode. But hitting a green block gives you 20 health. But you get a fee of -2 lives every
+30 seconds. Collecting more resets it to 20 (it does not stack), and the fee does not stack too. I was only able to beat this one, but it is still very challenging, especially
+with low lives and the fee can be a problem. It can either help or make things worse for you. Well, it's all up to RNG if it will be nice or not.
