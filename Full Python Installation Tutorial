@@ -1,0 +1,7 @@
+Download python from https://www.python.org/downloads/
+During the installation, check 'Add Python X.X to path'. Then click on install now.
+If you are on mac, then just skip to the next part, not sure about Linux.
+
+After the installation is complete, open command prompt or terminal (whatever command prompt name your OS uses), then run 'pip install pygame'.
+Wait for it to complete. After it is complete, type 'python3 (location of the .py file, found in the downloads folder originally)'.
+Have fun with these, you can modify them freely if you want. No need credits since this is not completely all my idea. Note that insane mode with 1 life only may just be straight up impossible.
